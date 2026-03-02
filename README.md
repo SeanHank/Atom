@@ -150,6 +150,8 @@ Atom includes a block-based circuit system for building logic and automation.
 
 ## 🎮 Console Commands
 
+> Note: Expect behaviour changes and iterative updates.
+
 - Place a block at a specific xyz or at your crosshair:
   - `setblock <x> <y> <z> <blockName>`
   - `setblock aim <blockName>`
@@ -158,9 +160,9 @@ Atom includes a block-based circuit system for building logic and automation.
 - Change the weather:
   - `weather clear|overcast|rain|snow|thunder`
 
-> Note: More features coming soon.
-
 ## 🎨 Customizing Data Files
+
+> Note: Expect behaviour changes and iterative updates.
 
 Atom stores gameplay data and configuration as JSON. These files are located in your game root/save directory. All the contents below are customizable and gives you the full freedom to build your world. 
 
