@@ -3,8 +3,6 @@ Not just a game.
 
 *“Everything should be made as simple as possible, but not simpler.” — Albert Einstein*
 
-<img width="1148" height="762" alt="AtomScreenshot" src="https://github.com/user-attachments/assets/73f1b0e1-93bd-45e8-ac03-31c5b1bfbc64" />
-
 > **Java Version:** 21  
 > **Engine:** libGDX  
 > **Build Tool:** Gradle
