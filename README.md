@@ -7,6 +7,8 @@ Not just a game.
 > **Engine:** libGDX  
 > **Build Tool:** Gradle
 
+<img width="1920" height="1440" alt="130_1x_shots_so" src="https://github.com/user-attachments/assets/2e072827-1e53-44c0-9ca3-3ea21ef5e13a" />
+
 ## 💡 Contents
 
 - [Getting Started](#Getting-Started)
