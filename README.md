@@ -118,7 +118,6 @@ Atom includes a block-based circuit system for building logic and automation.
 - In-game **console** for quick commands and testing.
 
 > Notes:
-> - Features may change rapidly during development.
 > - Some systems may require an internet connection to fetch data.
 > - Some blocks use **slope-shaped mesh**. Slopes are defined by the block’s **collision volume**, meaning the walkable/solid shape is determined by its collision geometry rather than the visual mesh alone.
 
@@ -152,8 +151,6 @@ Atom includes a block-based circuit system for building logic and automation.
 
 ## 🎮 Console Commands
 
-> Note: Expect behaviour changes and iterative updates.
-
 - Place a block at a specific xyz or at your crosshair:
   - `setblock <x> <y> <z> <blockName>`
   - `setblock aim <blockName>`
@@ -163,8 +160,6 @@ Atom includes a block-based circuit system for building logic and automation.
   - `weather clear|overcast|rain|snow|thunder`
 
 ## 🎨 Customizing Data Files
-
-> Note: Expect behaviour changes and iterative updates.
 
 Atom stores gameplay data and configuration as JSON. These files are located in your game root/save directory. All the contents below are customizable and gives you the full freedom to build your world. 
 
